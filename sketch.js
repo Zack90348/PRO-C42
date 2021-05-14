@@ -16,10 +16,10 @@ var rand;
 var thunderCreatedFrame=0;
 
 function preload(){
-    thunder1 = loadImage("thunderbolt/1.png");
-    thunder2 = loadImage("thunderbolt/2.png");
-    thunder3 = loadImage("thunderbolt/3.png");
-    thunder4 = loadImage("thunderbolt/4.png");
+    thunder1 = loadImage("Thunderbolt/1.png");
+    thunder2 = loadImage("Thunderbolt/2.png");
+    thunder3 = loadImage("Thunderbolt/3.png");
+    thunder4 = loadImage("Thunderbolt/4.png");
 
     batAnimation = loadAnimation("bat/bat1.png","bat/bat2.png","bat/bat3.png",
                         "bat/bat4.png","bat/bat5.png","bat/bat6.png",
